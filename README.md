@@ -1,6 +1,8 @@
 # A_starAlgorithm
 A_starAlgorithm
 ![graph]https://github.com/Alaa-Mohammad/improving-the-search-algorithm-in-an-interactive-way-with-the-user/blob/master/graph.png
+![](/graph.png)
+
 
 
 1- This project is faster because it does not use many loops or iterations in addition to that; a Recursion Structure was used to get all the paths from the start node to the target node
