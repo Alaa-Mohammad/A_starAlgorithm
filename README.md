@@ -1,6 +1,6 @@
 # A_starAlgorithm
 A_starAlgorithm
-![](/images/Figure_1.png)
+![Figure_1](/images/Figure_1.png)
 
 
 
