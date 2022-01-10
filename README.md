@@ -1,7 +1,6 @@
 # A_starAlgorithm
 A_starAlgorithm
 ![](/images/Figure_1.png)
-❮img src="Figure_1.png" ❯
 
 
 
