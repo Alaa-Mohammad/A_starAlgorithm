@@ -1,7 +1,6 @@
 # A_starAlgorithm
 A_starAlgorithm
-![graph]https://github.com/Alaa-Mohammad/improving-the-search-algorithm-in-an-interactive-way-with-the-user/blob/master/graph.png
-![](/graph.png)
+![graph](/graph.png)
 
 
 
