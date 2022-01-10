@@ -1,6 +1,6 @@
 # A_starAlgorithm
 A_starAlgorithm
-![Figure_1](https://user-images.githubusercontent.com/73493347/148812475-2d71aae5-85cd-4415-b1bf-8405e046d0ec.png)
+![figure`](https://user-images.githubusercontent.com/73493347/148812875-b01cea52-0986-478f-8b3c-7ac63ad30e87.png)
 
 1- This project is faster because it does not use many loops or iterations in addition to that; a Recursion Structure was used to get all the paths from the start node to the target node
 
